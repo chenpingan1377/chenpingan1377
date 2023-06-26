@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chenpingan1377
 - 👀 I’m interested in php
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://twitter.com/yangmao1377
 
